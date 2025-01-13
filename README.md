@@ -20,8 +20,8 @@ A serverless REST API using AWS Lambda, API Gateway, and DynamoDB.
 
 
 ## How to Reach Me
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/victoraudoh)
-- **GitHub:** [Your GitHub Profile](https://github.com/Vickdevops)
+- **LinkedIn:**(https://linkedin.com/in/victoraudoh)
+- **GitHub:** (https://github.com/Vickdevops)
 - **Email:** vicakpan37@yahoo.com
 
 Thanks for visiting my profile! 🚀
