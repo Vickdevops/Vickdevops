@@ -10,7 +10,7 @@ I'm a passionate Cloud Engineer with expertise in designing and deploying scalab
 - **Scripting & Automation:** Python, Bash
 - **Security:** IAM policies, VPC design, network security
 
-### Tools & Logos:
+### 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white&style=for-the-badge)
